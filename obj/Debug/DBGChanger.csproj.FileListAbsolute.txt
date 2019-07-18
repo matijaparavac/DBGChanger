@@ -1,0 +1,12 @@
+C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe.config
+C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.pdb
+C:\AKD\NET\Projects\DBGChanger\DBGChanger\obj\Debug\DBGChanger.csprojResolveAssemblyReference.cache
+C:\AKD\NET\Projects\DBGChanger\DBGChanger\obj\Debug\DBGChanger.exe
+C:\AKD\NET\Projects\DBGChanger\DBGChanger\obj\Debug\DBGChanger.pdb
+F:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe.config
+F:\AKD\NET\Projects\DBGChanger\DBGChanger\obj\Debug\DBGChanger.exe
+F:\AKD\NET\Projects\DBGChanger\DBGChanger\obj\Debug\DBGChanger.pdb
+F:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+F:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.pdb
+F:\AKD\NET\Projects\DBGChanger\DBGChanger\obj\Debug\DBGChanger.csprojResolveAssemblyReference.cache

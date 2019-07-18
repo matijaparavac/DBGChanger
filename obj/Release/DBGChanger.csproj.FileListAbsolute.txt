@@ -1,0 +1,6 @@
+C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Release\DBGChanger.exe.config
+C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Release\DBGChanger.exe
+C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Release\DBGChanger.pdb
+C:\AKD\NET\Projects\DBGChanger\DBGChanger\obj\Release\DBGChanger.exe
+C:\AKD\NET\Projects\DBGChanger\DBGChanger\obj\Release\DBGChanger.pdb
+C:\AKD\NET\Projects\DBGChanger\DBGChanger\obj\Release\DBGChanger.csprojResolveAssemblyReference.cache

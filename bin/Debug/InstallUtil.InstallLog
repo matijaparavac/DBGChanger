@@ -1,0 +1,737 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The account name is invalid or does not exist, or the password is invalid for the account name specified
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The account name is invalid or does not exist, or the password is invalid for the account name specified
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The account name is invalid or does not exist, or the password is invalid for the account name specified
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: An exception occurred in the OnAfterInstall event handler of DBGChanger.MyWindowsServiceInstaller.
+The inner exception System.InvalidCastException was thrown with the following error message: Specified cast is not valid..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe assembly's progress.
+The file is located at C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

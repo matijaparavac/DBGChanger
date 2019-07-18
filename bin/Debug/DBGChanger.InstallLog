@@ -1,0 +1,762 @@
+﻿Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Attempt to stop service HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Creating EventLog source HorseD in log Application...
+Rolling back assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Restoring event log to previous state for source HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Creating EventLog source HorseD in log Application...
+Rolling back assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Restoring event log to previous state for source HorseD.
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Warning: The source HorseD is not registered on the local machine.
+Service HorseD is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Warning: The source HorseD is not registered on the local machine.
+Service HorseD is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Attempt to stop service HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Creating EventLog source HorseD in log Application...
+Rolling back assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Restoring event log to previous state for source HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Creating EventLog source HorseD in log Application...
+Rolling back assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Restoring event log to previous state for source HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Creating EventLog source HorseD in log Application...
+Rolling back assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Restoring event log to previous state for source HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Attempt to stop service HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Attempt to stop service HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Creating EventLog source HorseD in log Application...
+Rolling back assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Restoring event log to previous state for source HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Creating EventLog source HorseD in log Application...
+Rolling back assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Restoring event log to previous state for source HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Creating EventLog source HorseD in log Application...
+Rolling back assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Restoring event log to previous state for source HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Creating EventLog source HorseD in log Application...
+Rolling back assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Restoring event log to previous state for source HorseD.
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Warning: The source HorseD is not registered on the local machine.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Warning: The source HorseD is not registered on the local machine.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Warning: The source HorseD is not registered on the local machine.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Creating EventLog source HorseD in log Application...
+Rolling back assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Restoring event log to previous state for source HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Creating EventLog source HorseD in log Application...
+Rolling back assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Restoring event log to previous state for source HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+An exception occurred in the OnCommitted event handler of System.ServiceProcess.ServiceInstaller.
+System.InvalidCastException: Specified cast is not valid.
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+An exception occurred in the OnCommitted event handler of System.ServiceProcess.ServiceInstaller.
+System.InvalidCastException: Specified cast is not valid.
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+An exception occurred in the OnCommitted event handler of System.ServiceProcess.ServiceInstaller.
+System.InvalidCastException: Specified cast is not valid.
+An exception occurred during the Commit phase of the installation. This exception will be ignored and installation will continue. However, the application might not function correctly after installation is complete.
+Uninstalling assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Removing EventLog source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+An exception occurred in the OnAfterInstall event handler of DBGChanger.MyWindowsServiceInstaller.
+System.InvalidCastException: Specified cast is not valid.
+Rolling back assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Restoring event log to previous state for source HorseD.
+Service HorseD is being removed from the system...
+Service HorseD was successfully removed from the system.
+Attempt to stop service HorseD.
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Service HorseD has been successfully installed.
+Creating EventLog source HorseD in log Application...
+Committing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
+Installing assembly 'C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.InstallLog
+   assemblypath = C:\AKD\NET\Projects\DBGChanger\DBGChanger\bin\Debug\DBGChanger.exe
+Installing service HorseD...
