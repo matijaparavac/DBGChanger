@@ -4,7 +4,7 @@ This was made as office prank - If someone leaves computer unlocked...
 Currently it changes windows background based on images on some folder on network.
 
 Ideas for upgrade would be:
-- when executed automaticallys install as windows task
+- when executed automatically install itself as windows task or service
 - implement process hollowing
 - you get the idea - hide it as best you can...
 
